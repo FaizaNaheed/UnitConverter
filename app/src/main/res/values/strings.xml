@@ -1,3 +1,140 @@
 <resources>
     <string name="app_name">UnitConverter</string>
+    <array name="length">
+
+        <item>
+           km to m
+        </item>
+        <item>
+            m to km
+        </item>
+
+        <item>
+           m to cm
+        </item>
+
+
+        <item>
+            cm to m
+        </item>
+
+        <item>
+          m to mm
+        </item>
+
+        <item>
+            mm to m
+        </item>
+
+    </array>
+
+
+    <array name="area">
+        <item>
+            sq.foot to sq.inches
+        </item>
+
+        <item>
+            sq.yard to sq.feet
+        </item>
+
+        <item>
+            acre to sq.yards
+        </item>
+
+        <item>
+            acre to sq.feet
+        </item>
+
+        <item>
+            sq.mile to acre
+        </item>
+
+    </array>
+
+
+    <array name="weight">
+        <item>
+           kg to gram
+        </item>
+
+        <item>
+            gram to kg
+        </item>
+
+        <item>
+            gram to cg
+        </item>
+
+        <item>
+            cg to gram
+        </item>
+
+        <item>
+            gram to mg
+        </item>
+
+        <item>
+            mg to gram
+        </item>
+
+    </array>
+
+    <array name="currency">
+        <item>
+            dollar to pkr
+        </item>
+
+        <item>
+            rial to pkr
+        </item>
+
+        <item>
+            euro to pkr
+        </item>
+
+        <item>
+            pounds to pkr
+        </item>
+
+    </array>
+
+    <array name="volume">
+        <item>
+            cubic.foot to cubic.inches
+        </item>
+
+        <item>
+            cubic.yard to cubic.inches
+        </item>
+
+        <item>
+           cubic.yard to cubic.feet
+        </item>
+
+    </array>
+
+
+    <array name="pressure">
+        <item>
+            bar to millibar
+        </item>
+
+        <item>
+           atm to bar
+        </item>
+
+        <item>
+           inch_mercury to milli_mercury
+        </item>
+
+        <item>
+            Mpa to Kpa
+        </item>
+
+        <item>
+           Kpa to Pa
+        </item>
+
+    </array>
 </resources>
